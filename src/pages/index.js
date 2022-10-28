@@ -162,6 +162,8 @@ const IndexPage = () => {
             </span>
           </li>
         ))}
+
+        <a  style={linkStyle}href="/about">about</a>
       </ul>
       <img
         alt="Gatsby G Logo"
