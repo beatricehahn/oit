@@ -2020,6 +2020,11 @@
     "schema-utils" "^3.0.0"
     "source-map" "^0.7.3"
 
+"@popperjs/core@^2.11.6":
+  "integrity" "sha512-50/17A98tWUfQ176raKiOGXuYpLyyVMkxxG6oylzL3BPOlA6ADGdK7EYunSa4I064xerltq9TGXs8HmOk5E+vw=="
+  "resolved" "https://registry.npmjs.org/@popperjs/core/-/core-2.11.6.tgz"
+  "version" "2.11.6"
+
 "@sideway/address@^4.1.3":
   "integrity" "sha512-7vwq+rOHVWjyXxVlR76Agnvhy8I9rpzjosTESvmhNeXOXdZZB15Fl+TI9x1SiHZH5Jv2wTGduSxFDIaq0m3DUw=="
   "resolved" "https://registry.npmjs.org/@sideway/address/-/address-4.1.4.tgz"
@@ -3339,6 +3344,11 @@
   "integrity" "sha512-JZOSA7Mo9sNGB8+UjSgzdLtokWAky1zbztM3WRLCbZ70/3cTANmQmOdR7y2g+J0e2WXywy1yS468tY+IruqEww=="
   "resolved" "https://registry.npmjs.org/boolbase/-/boolbase-1.0.0.tgz"
   "version" "1.0.0"
+
+"bootstrap@^5.2.2":
+  "integrity" "sha512-dEtzMTV71n6Fhmbg4fYJzQsw1N29hJKO1js5ackCgIpDcGid2ETMGC6zwSYw09v05Y+oRdQ9loC54zB1La3hHQ=="
+  "resolved" "https://registry.npmjs.org/bootstrap/-/bootstrap-5.2.2.tgz"
+  "version" "5.2.2"
 
 "boxen@^4.2.0":
   "integrity" "sha512-eB4uT9RGzg2odpER62bBwSLvUeGC+WbRjjyyFhGsKnc8wp/m0+hQsMUvUe3H2V0D5vw0nBdO1hCJoZo5mKeuIQ=="
@@ -5766,6 +5776,13 @@
     "gatsby-plugin-utils" "^3.18.0"
     "objectFitPolyfill" "^2.3.5"
     "prop-types" "^15.8.1"
+
+"gatsby-plugin-layout@^3.12.1":
+  "integrity" "sha512-1nuvntDB3+ODdbUos7Vnq6Ltq0UVNo9TvIl331JdavdSKKvpwEECGevl4BdVN/xCAzBNXmaStWgTn6UGNSIULg=="
+  "resolved" "https://registry.npmjs.org/gatsby-plugin-layout/-/gatsby-plugin-layout-3.12.1.tgz"
+  "version" "3.12.1"
+  dependencies:
+    "@babel/runtime" "^7.15.4"
 
 "gatsby-plugin-page-creator@^4.24.1":
   "integrity" "sha512-fEPxxWMKMyb33cU3tl0Fgx119+w75MtEP/M7pf1F2XEipP6LTC93rJ5N40sIf1RNYsDz0cpRaWRFpxz9SzowZQ=="
